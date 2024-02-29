@@ -1,0 +1,300 @@
+Time 1
+Clients :(2,10,3) (1,16,2) (3,18,2) (4,20,2) 
+Queue 1: 
+Queue 2: 
+
+Time 2
+Clients :(2,10,3) (1,16,2) (3,18,2) (4,20,2) 
+Queue 1: 
+Queue 2: 
+
+Time 3
+Clients :(2,10,3) (1,16,2) (3,18,2) (4,20,2) 
+Queue 1: 
+Queue 2: 
+
+Time 4
+Clients :(2,10,3) (1,16,2) (3,18,2) (4,20,2) 
+Queue 1: 
+Queue 2: 
+
+Time 5
+Clients :(2,10,3) (1,16,2) (3,18,2) (4,20,2) 
+Queue 1: 
+Queue 2: 
+
+Time 6
+Clients :(2,10,3) (1,16,2) (3,18,2) (4,20,2) 
+Queue 1: 
+Queue 2: 
+
+Time 7
+Clients :(2,10,3) (1,16,2) (3,18,2) (4,20,2) 
+Queue 1: 
+Queue 2: 
+
+Time 8
+Clients :(2,10,3) (1,16,2) (3,18,2) (4,20,2) 
+Queue 1: 
+Queue 2: 
+
+Time 9
+Clients :(2,10,3) (1,16,2) (3,18,2) (4,20,2) 
+Queue 1: 
+Queue 2: 
+
+Time 10
+Clients :(2,10,3) (1,16,2) (3,18,2) (4,20,2) 
+Queue 1: 
+Queue 2: 
+
+Time 11
+Clients :(1,16,2) (3,18,2) (4,20,2) 
+Queue 1: (2,10,3) 
+Queue 2: 
+
+Time 12
+Clients :(1,16,2) (3,18,2) (4,20,2) 
+Queue 1: (2,10,2) 
+Queue 2: 
+
+Time 13
+Clients :(1,16,2) (3,18,2) (4,20,2) 
+Queue 1: (2,10,1) 
+Queue 2: 
+
+Time 14
+Clients :(1,16,2) (3,18,2) (4,20,2) 
+Queue 1: 
+Queue 2: 
+
+Time 15
+Clients :(1,16,2) (3,18,2) (4,20,2) 
+Queue 1: 
+Queue 2: 
+
+Time 16
+Clients :(1,16,2) (3,18,2) (4,20,2) 
+Queue 1: 
+Queue 2: 
+
+Time 17
+Clients :(3,18,2) (4,20,2) 
+Queue 1: (1,16,2) 
+Queue 2: 
+
+Time 18
+Clients :(3,18,2) (4,20,2) 
+Queue 1: (1,16,1) 
+Queue 2: 
+
+Time 19
+Clients :(4,20,2) 
+Queue 1: (3,18,2) 
+Queue 2: 
+
+Time 20
+Clients :(4,20,2) 
+Queue 1: (3,18,1) 
+Queue 2: 
+
+Time 21
+Clients :
+Queue 1: (4,20,2) 
+Queue 2: 
+
+Time 22
+Clients :
+Queue 1: (4,20,1) 
+Queue 2: 
+
+Time 23
+Clients :
+Queue 1: 
+Queue 2: 
+
+Time 24
+Clients :
+Queue 1: 
+Queue 2: 
+
+Time 25
+Clients :
+Queue 1: 
+Queue 2: 
+
+Time 26
+Clients :
+Queue 1: 
+Queue 2: 
+
+Time 27
+Clients :
+Queue 1: 
+Queue 2: 
+
+Time 28
+Clients :
+Queue 1: 
+Queue 2: 
+
+Time 29
+Clients :
+Queue 1: 
+Queue 2: 
+
+Time 30
+Clients :
+Queue 1: 
+Queue 2: 
+
+Time 31
+Clients :
+Queue 1: 
+Queue 2: 
+
+Time 32
+Clients :
+Queue 1: 
+Queue 2: 
+
+Time 33
+Clients :
+Queue 1: 
+Queue 2: 
+
+Time 34
+Clients :
+Queue 1: 
+Queue 2: 
+
+Time 35
+Clients :
+Queue 1: 
+Queue 2: 
+
+Time 36
+Clients :
+Queue 1: 
+Queue 2: 
+
+Time 37
+Clients :
+Queue 1: 
+Queue 2: 
+
+Time 38
+Clients :
+Queue 1: 
+Queue 2: 
+
+Time 39
+Clients :
+Queue 1: 
+Queue 2: 
+
+Time 40
+Clients :
+Queue 1: 
+Queue 2: 
+
+Time 41
+Clients :
+Queue 1: 
+Queue 2: 
+
+Time 42
+Clients :
+Queue 1: 
+Queue 2: 
+
+Time 43
+Clients :
+Queue 1: 
+Queue 2: 
+
+Time 44
+Clients :
+Queue 1: 
+Queue 2: 
+
+Time 45
+Clients :
+Queue 1: 
+Queue 2: 
+
+Time 46
+Clients :
+Queue 1: 
+Queue 2: 
+
+Time 47
+Clients :
+Queue 1: 
+Queue 2: 
+
+Time 48
+Clients :
+Queue 1: 
+Queue 2: 
+
+Time 49
+Clients :
+Queue 1: 
+Queue 2: 
+
+Time 50
+Clients :
+Queue 1: 
+Queue 2: 
+
+Time 51
+Clients :
+Queue 1: 
+Queue 2: 
+
+Time 52
+Clients :
+Queue 1: 
+Queue 2: 
+
+Time 53
+Clients :
+Queue 1: 
+Queue 2: 
+
+Time 54
+Clients :
+Queue 1: 
+Queue 2: 
+
+Time 55
+Clients :
+Queue 1: 
+Queue 2: 
+
+Time 56
+Clients :
+Queue 1: 
+Queue 2: 
+
+Time 57
+Clients :
+Queue 1: 
+Queue 2: 
+
+Time 58
+Clients :
+Queue 1: 
+Queue 2: 
+
+Time 59
+Clients :
+Queue 1: 
+Queue 2: 
+
+Time 60
+Clients :
+Queue 1: 
+Queue 2: 
+
