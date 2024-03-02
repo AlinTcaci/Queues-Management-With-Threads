@@ -1,4 +1,4 @@
-# QueuesManagement
+# Queues Management with Threads
 
 ## Overview
 Queues Management With Threads is a Java project designed to simulate and manage queues efficiently using multithreading. This project aims to demonstrate the power of concurrent programming in handling real-world scenarios where tasks can be processed in parallel to improve performance and efficiency.
